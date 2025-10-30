@@ -1,1 +1,2 @@
-# ASL-Sign_Language
+# ASL-Sign_Language 
+# ASL Learner is a beginner-friendly guide to help users get familiar with the basics of American Sign Language. With clear visuals explaining each unique hand position, you are able to follow along from letter to letter. Ultimately, there is even an optional review and quiz to test your understanding and knowledge of the signs, making the app an enjoyable way to learn more about ASL. 
